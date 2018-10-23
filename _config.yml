@@ -1,4 +1,3 @@
 theme: jekyll-theme-cayman
 title: Amdo dialect
 description: A site about the Amdo dialect of Tibetan
-permalinks: /:title:output_ext
